@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abeelha
 - 👀 I’m interested in Web Dev & Game Dev
-- 🌱 I’m currently learning JavaScript HTML and CSS
+- 🌱 I’m currently learning JavaScript HTML and CSS, and Unity
 - 💞️ I’m looking to collaborate on Game Dev
 - 📫 How to reach me in dev.theodoro@gmail.com  &  Discord : Abeelha#4347
 
