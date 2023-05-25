@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abeelha
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Java, C, JavaScript HTML and CSS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science and AI
 - 📫 How to reach me in dev.theodoro@gmail.com  &  Discord : Abeelha#4347
 
