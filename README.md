@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abeelha
-- 👀 I’m interested in Python / NodeJS / JS / Front-End and Back-End
-- 🌱 I’m currently learning Python / JS
-- 💞️ I’m looking to collaborate on Data Science and AI
-- 📫 How to reach me in dev.theodoro@gmail.com  &  Discord : Abeelha#4347
+- 👀 I’m interested in Python / Unity / NodeJS / JS / Front-End and Back-End
+- 🌱 I’m currently learning Python / JS / Unity
+- 💞️ I’m looking to collaborate on Data Science, AI, Game Dev
+- 📫 How to reach me in dev.theodoro@gmail.com  &  Discord : Abeelha
 
 <!---
 Abeelha/Abeelha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
