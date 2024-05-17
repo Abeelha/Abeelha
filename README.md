@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abeelha
-- 👀 I’m interested in Python / Unity / NodeJS / JS / Front-End and Back-End
+- 👀 I’m interested in Java / React / Python / Unity / NodeJS / JS / Front-End and Back-End
 - 🌱 I’m currently learning Python / JS / Unity
-- 💞️ I’m looking to collaborate on Data Science, AI, Game Dev
+- 💞️ I’m looking to collaborate on Fullstack / Data Science, AI, Game Dev
 - 📫 How to reach me in dev.theodoro@gmail.com  &  Discord : Abeelha
 
 <!---
