@@ -12,5 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abeelha&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Abeelha/Abeelha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
