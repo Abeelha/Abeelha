@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abeelha;
-- 👀 I’m interested in Java / React / Python / NodeJS / JS / Front-End and Back-End;
-- 🌱 I’m currently learning Java / React / JS;
+- 👀 I’m interested in Java / React / Python / NodeJS / JS / Full-Stack;
+- 🌱 I’m currently learning Python AI / Django / React / JSX;
 - 💞️ I’m looking to collaborate on Fullstack;
 - 📫 How to reach me in dev.theodoro@gmail.com  &  Discord : Abeelha;
 
