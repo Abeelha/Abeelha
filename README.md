@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abeelha" alt="abeelha" /></a> </p>
 
-- 🔭 I’m currently working on [TSX project named "fractal-it"](https://github.com/Abeelha/fractal-it)
+- 🔭 I’m currently working on [TS Extension project named "fractal-it"](https://github.com/Abeelha/fractal-it)
 
 - 🌱 I’m currently learning **DevOps**
 
