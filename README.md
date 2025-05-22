@@ -23,7 +23,7 @@
 **🇧🇷 Passionate Full-Stack Developer from Brasil**  
 **🐝 Digital Bee in the Tech Hive**
 
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=abeelha&theme=neon&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=abeelha&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -142,7 +142,7 @@ npm install fractal-it
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Snake animation](https://github.com/abeelha/abeelha/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/abeelha/abeelha/output/github-contribution-grid-snake.svg)
 
 **💫 Thanks for visiting my digital realm! Let's build the future together 🚀**
 
