@@ -23,8 +23,6 @@
 **🇧🇷 Passionate Full-Stack Developer from Brasil**  
 **🐝 Digital Bee in the Tech Hive**
 
-![Metrics](https://metrics.lecoq.io/abeelha?template=classic&config.timezone=America%2FSao_Paulo)
-
 </div>
 
 ---
