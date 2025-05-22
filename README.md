@@ -142,7 +142,7 @@ npm install fractal-it
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Snake animation](https://raw.githubusercontent.com/abeelha/abeelha/output/github-contribution-grid-snake.svg)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abeelha&theme=synthwave-84&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **💫 Thanks for visiting my digital realm! Let's build the future together 🚀**
 
