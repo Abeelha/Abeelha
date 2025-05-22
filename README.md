@@ -1,32 +1,155 @@
-<h1 align="center">Hi 👋, I'm Abeelha</h1>
-<h3 align="center">A passionate Fullstack Dev from Brasil</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abeelha" alt="abeelha" /></a> </p>
+```
+    ╔══════════════════════════════════════════════════════════════════╗
+    ║   █████╗ ██████╗ ███████╗███████╗██╗     ██╗  ██╗ █████╗         ║
+    ║  ██╔══██╗██╔══██╗██╔════╝██╔════╝██║     ██║  ██║██╔══██╗        ║
+    ║  ███████║██████╔╝█████╗  █████╗  ██║     ███████║███████║        ║
+    ║  ██╔══██║██╔══██╗██╔══╝  ██╔══╝  ██║     ██╔══██║██╔══██║        ║
+    ║  ██║  ██║██████╔╝███████╗███████╗███████╗██║  ██║██║  ██║        ║
+    ║  ╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝        ║
+    ╚══════════════════════════════════════════════════════════════════╝
+```
 
-- 🔭 I’m currently working on [TS Extension project named "fractal-it"](https://github.com/Abeelha/fractal-it)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;AI+%26+DevOps+Explorer;Welcome+to+the+Matrix+🐝" alt="Typing SVG"/>
 
-- 🌱 I’m currently learning **DevOps**
+</div>
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
+---
 
-- 🤝 I’m looking for help with **AI API calls and prompt engineering**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [my github, duh](my github, duh)
+### `> whoami`
+**🇧🇷 Passionate Full-Stack Developer from Brasil**  
+**🐝 Digital Bee in the Tech Hive**
 
-- 💬 Ask me about **Cyber-security | AI | Full-stack**
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=abeelha&theme=neon&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **I like bees and insects**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/theo_bzzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/theo_bzzz/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## 🌌 **CURRENT_STATUS.exe**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abeelha&show_icons=true&locale=en&layout=compact" alt="abeelha" /></p>
+```json
+{
+  "🔭 currently_building": ["fractal-it", "TS Extension Project"],
+  "🌱 learning_stack": ["DevOps", "Kubernetes", "Cloud Architecture"],
+  "👯 collaboration": "Full-Stack Projects",
+  "🤝 seeking_help": ["AI API Integration", "Prompt Engineering"],
+  "💬 expertise": ["Cybersecurity", "AI", "Full-Stack Development"],
+  "⚡ fun_fact": "I code with the precision of a bee 🐝",
+  "🎯 mission": "Building digital ecosystems, one commit at a time"
+}
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeelha&show_icons=true&locale=en" alt="abeelha" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abeelha&" alt="abeelha" /></p>
+## 🚀 **FEATURED_PROJECT.tar.gz**
+
+<div align="center">
+
+### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it) 
+*Transform websites into mesmerizing fractal art*
+
+```bash
+npm install fractal-it
+# Turn any webpage into mathematical beauty
+```
+
+[![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)
+
+</div>
+
+---
+
+## 💫 **NEURAL_NETWORK.connect()**
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/📸_theo__bzzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theo_bzzz/)
+[![GitHub](https://img.shields.io/badge/💻_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abeelha)
+[![Email](https://img.shields.io/badge/📧_Connect-00ffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:dev.theodoro@gmail.com)
+
+</div>
+
+---
+
+## ⚡ **TECH_ARSENAL.json**
+
+<div align="center">
+
+### 🎯 **Primary Weapons**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🛡️ **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 **Tools & More**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **SYSTEM_ANALYTICS.exe**
+
+<div align="center">
+
+### 🔥 **Code Distribution Matrix**
+![Top Languages](https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff)
+
+### ⚡ **Performance Metrics**  
+![GitHub Stats](https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff00ff)
+
+### 🚀 **Streak Protocol**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeelha&theme=synthwave&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ffff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 **ACTIVITY_GRAPH.render()**
+[![Abeelha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abeelha&theme=synthwave-84&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  "In a world of 1s and 0s, be the algorithm that matters."  ║
+    ║                           - Abeelha 🐝                      ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
+
+![Snake animation](https://github.com/abeelha/abeelha/blob/output/github-contribution-grid-snake-dark.svg)
+
+**💫 Thanks for visiting my digital realm! Let's build the future together 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abeelha&style=for-the-badge&color=00ffff" alt="Profile Views"/>
+</div>
