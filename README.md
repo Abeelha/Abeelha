@@ -23,7 +23,7 @@
 **🇧🇷 Passionate Full-Stack Developer from Brasil**  
 **🐝 Digital Bee in the Tech Hive**
 
-[![Profile Trophy](https://your-trophy-deployment.vercel.app/?username=abeelha&theme=darkhub&no-frame=true&margin-w=15)](github-profile-trophy-1o2a1c6uy-abeelhas-projects.vercel.app)
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=abeelha&theme=matrix&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
