@@ -56,7 +56,7 @@
   "🔭 currently_building": "fractal-it",
   "🌱 learning_stack": "DevOps | K8s",
   "👯 collaboration": "Full-Stack Projects",
-  "🤝 seeking_help": "AI API Integration"
+  "🤝 seek_my_help": "AI API Integration"
 }
 ```
 
