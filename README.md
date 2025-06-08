@@ -25,15 +25,20 @@
 ---
 
 ## 🚀 **FEATURED_PROJECTS.tar.gz**
+
 <div align="center">
 
 ### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it) 
 *Transform websites into mesmerizing fractal art*
+
 [![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)
 [![Extension](https://img.shields.io/badge/Browser_Extension-Available-00ffff?style=for-the-badge&logo=googlechrome)](https://github.com/Abeelha/fractal-it)
 
+---
+
 ### 🌍 [**WORLD SUSTAINABILITY PORTAL**](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)
 *AI-powered data portal showcasing global sustainability metrics across 173 countries*
+
 [![Live Demo](https://img.shields.io/badge/🌍_Live_Portal-Visit_Now-22C55E?style=for-the-badge&logo=nextdotjs)](https://portaljs-world-sustainability-datas.vercel.app/)
 [![GitHub](https://img.shields.io/badge/📊_Data_Portal-Next.js_+_AI-16A34A?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)
 
