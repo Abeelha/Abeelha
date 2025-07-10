@@ -18,7 +18,6 @@
 
 [![Instagram](https://img.shields.io/badge/📸_theo__bzzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theo_bzzz/)
 [![GitHub](https://img.shields.io/badge/💻_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abeelha)
-[![Email](https://img.shields.io/badge/📧_Connect-00ffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:dev.theodoro@gmail.com)
 
 </div>
 
