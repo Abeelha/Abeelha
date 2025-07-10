@@ -11,7 +11,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;AI+%26+DevOps+Explorer;Welcome+to+the+Matrix+🐝" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;AI+%26+DevOps+Explorer;Welcome+to+the+Hive+🐝" alt="Typing SVG"/>
 
 ### `> whoami`
 **🇧🇷 Passionate Full-Stack Developer from Brasil • 🐝 Digital Bee in the Tech Hive**
