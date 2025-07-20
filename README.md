@@ -23,39 +23,49 @@
 
 ## 🚀 **FEATURED_PROJECTS.tar.gz**
 
-<div align="center">
-
-### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+    
+### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)  
 *Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
 
-[![Download](https://img.shields.io/badge/🎯_AutoNexus-Download_v1.0.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.0.0/AutoNexus.dll)
+[![Download](https://img.shields.io/badge/🎯_AutoNexus-Download_v1.0.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.0.0/AutoNexus.dll)  
 [![Game Mod](https://img.shields.io/badge/Game_Mod-Born_Again-00ff88?style=for-the-badge&logo=unity)](https://github.com/Abeelha/Born-Again-AutoNexus)
 
----
+</td>
+<td align="center" valign="top" width="50%">
 
-### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it) 
+### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)  
 *Transform websites into mesmerizing fractal art*
 
-[![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)
+[![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)  
 [![Extension](https://img.shields.io/badge/Browser_Extension-Available-00ffff?style=for-the-badge&logo=googlechrome)](https://github.com/Abeelha/fractal-it)
 
----
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
 
-### 🌍 [**WORLD SUSTAINABILITY PORTAL**](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)
+### 🌍 [**WORLD SUSTAINABILITY PORTAL**](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)  
 *AI-powered data portal showcasing global sustainability metrics across 173 countries*
 
-[![Live Demo](https://img.shields.io/badge/🌍_Live_Portal-Visit_Now-22C55E?style=for-the-badge&logo=nextdotjs)](https://portaljs-world-sustainability-datas.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌍_Live_Portal-Visit_Now-22C55E?style=for-the-badge&logo=nextdotjs)](https://portaljs-world-sustainability-datas.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/📊_Data_Portal-Next.js_+_AI-16A34A?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)
 
----
+</td>
+<td align="center" valign="top" width="50%">
 
-### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)
+### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)  
 *Educational Rust library with advanced data structures: AVL, Red-Black Trees, Bloom Filters, Dijkstra's algorithm*
 
-[![Release](https://img.shields.io/badge/🚀_Release-v0.1.0-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.0)
+[![Release](https://img.shields.io/badge/🚀_Release-v0.1.0-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.0)  
 [![Library](https://img.shields.io/badge/Educational_Library-Rust_+_Algorithms-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee)
 
-</div>
+</td>
+  </tr>
+</table>
+
 
 ## 🌌 **CURRENT_STATUS.exe**
 
