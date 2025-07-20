@@ -16,8 +16,6 @@
 ### `> whoami`
 **🇧🇷 Passionate Full-Stack Developer from Brasil • 🐝 Digital Bee in the Tech Hive**
 
-[![Instagram](https://img.shields.io/badge/📸_theo__bzzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theo_bzzz/)
-[![GitHub](https://img.shields.io/badge/💻_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abeelha)
 
 </div>
 
