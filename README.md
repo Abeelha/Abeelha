@@ -36,11 +36,11 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)  
-*Transform websites into mesmerizing fractal art*
+### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)  
+*Educational Rust library with advanced data structures: AVL, Red-Black Trees, Bloom Filters, Dijkstra's algorithm*
 
-[![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)  
-[![Extension](https://img.shields.io/badge/Browser_Extension-Available-00ffff?style=for-the-badge&logo=googlechrome)](https://github.com/Abeelha/fractal-it)
+[![Release](https://img.shields.io/badge/🚀_Release-v0.1.0-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.0)  
+[![Library](https://img.shields.io/badge/Educational_Library-Rust_+_Algorithms-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee)
 
 </td>
   </tr>
@@ -56,16 +56,15 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)  
-*Educational Rust library with advanced data structures: AVL, Red-Black Trees, Bloom Filters, Dijkstra's algorithm*
+### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)  
+*Transform websites into mesmerizing fractal art*
 
-[![Release](https://img.shields.io/badge/🚀_Release-v0.1.0-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.0)  
-[![Library](https://img.shields.io/badge/Educational_Library-Rust_+_Algorithms-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee)
+[![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)  
+[![Extension](https://img.shields.io/badge/Browser_Extension-Available-00ffff?style=for-the-badge&logo=googlechrome)](https://github.com/Abeelha/fractal-it)
 
 </td>
   </tr>
 </table>
-
 
 ## 🌌 **CURRENT_STATUS.exe**
 
