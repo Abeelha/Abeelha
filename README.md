@@ -39,7 +39,7 @@
 ### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)  
 *Educational Rust library with advanced data structures: AVL, Red-Black Trees, Bloom Filters, Dijkstra's algorithm*
 
-[![Release](https://img.shields.io/badge/🚀_Release-v0.1.0-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.0)  
+[![Release](https://img.shields.io/badge/🚀_Release-v0.1.1-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.1)  
 [![Library](https://img.shields.io/badge/Educational_Library-Rust_+_Algorithms-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee)
 
 </td>
