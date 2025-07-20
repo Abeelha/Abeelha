@@ -133,9 +133,9 @@
 <td width="50%">
 
 ### 🏆 **Achievement Matrix**
-![Commits](https://img.shields.io/badge/Total_Commits-837+-00ffff?style=for-the-badge&logo=github&logoColor=white)<br/>
+![Commits](https://img.shields.io/badge/Total_Commits-874+-00ffff?style=for-the-badge&logo=github&logoColor=white)<br/>
 ![Repositories](https://img.shields.io/badge/Public_Repos-25+-ff00ff?style=for-the-badge&logo=github&logoColor=white)<br/>
-![Languages](https://img.shields.io/badge/Languages-8+-ffff00?style=for-the-badge&logo=code&logoColor=black)<br/>
+![Languages](https://img.shields.io/badge/Languages-9+-ffff00?style=for-the-badge&logo=code&logoColor=black)<br/>
 ![Years_Active](https://img.shields.io/badge/Years_Active-5+-00ff00?style=for-the-badge&logo=calendar&logoColor=white)
 
 </td>
