@@ -47,9 +47,15 @@
 [![Live Demo](https://img.shields.io/badge/🌍_Live_Portal-Visit_Now-22C55E?style=for-the-badge&logo=nextdotjs)](https://portaljs-world-sustainability-datas.vercel.app/)
 [![GitHub](https://img.shields.io/badge/📊_Data_Portal-Next.js_+_AI-16A34A?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)
 
-</div>
-
 ---
+
+### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)
+*Educational Rust library with advanced data structures: AVL, Red-Black Trees, Bloom Filters, Dijkstra's algorithm*
+
+[![Release](https://img.shields.io/badge/🚀_Release-v0.1.0-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.0)
+[![Library](https://img.shields.io/badge/Educational_Library-Rust_+_Algorithms-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee)
+
+</div>
 
 ## 🌌 **CURRENT_STATUS.exe**
 
