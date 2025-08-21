@@ -27,13 +27,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
     
-### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)  
-*Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
 
-[![Download](https://img.shields.io/badge/🎯_AutoNexus-Download_v1.5.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)  
-[![Game Mod](https://img.shields.io/badge/Game_Mod-Born_Again-00ff88?style=for-the-badge&logo=unity)](https://github.com/Abeelha/Born-Again-AutoNexus)
-
-</td>
 <td align="center" valign="top" width="50%">
 
 ### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)  
