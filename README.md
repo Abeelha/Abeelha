@@ -74,10 +74,10 @@
 
 ```json
 {
-  "🔭 currently_building": "fractal-it",
-  "🌱 learning_stack": "DevOps | K8s",
+  "🔭 currently_building": "*Private repo*",
+  "🌱 learning_stack": "DevOps",
   "👯 collaboration": "Full-Stack Projects",
-  "🤝 seek_my_help": "AI API Integration"
+  "🤝 seek_my_help": "AI API Integration | Reverse-Engineering"
 }
 ```
 
