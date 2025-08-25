@@ -17,7 +17,6 @@
 **🇧🇷 Passionate Full-Stack Developer from Brasil • 🐝 Digital Bee in the Tech Hive**
 
 
-
 </div>
 
 ---
