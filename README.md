@@ -36,11 +36,11 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-### 🦀 [**RUST DATA STRUCTURES LIBRARY**](https://github.com/Abeelha/rust-ds-lib-bee)  
-*Educational Rust library with advanced data structures: AVL, Red-Black Trees, Bloom Filters, Dijkstra's algorithm*
+### 🐝 [**INSTAGRAM MATRIX ANALYZER**](https://github.com/Abeelha/-friends--to-unfollow-instagram)  
+*Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee aesthetics*
 
-[![Release](https://img.shields.io/badge/🚀_Release-v0.1.1-ff6b00?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee/releases/tag/v0.1.1)  
-[![Library](https://img.shields.io/badge/Educational_Library-Rust_+_Algorithms-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/rust-ds-lib-bee)
+[![Download](https://img.shields.io/badge/🐝_Download-v0.1.0-ffff00?style=for-the-badge&logo=github)](https://github.com/Abeelha/-friends--to-unfollow-instagram/releases/tag/0.1.0)  
+[![Portable App](https://img.shields.io/badge/Portable_App-Rust_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/-friends--to-unfollow-instagram)
 
 </td>
   </tr>
