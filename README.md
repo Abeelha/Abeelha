@@ -20,60 +20,50 @@
 </div>
 
 ---
-  ## 🚀 **FEATURED_PROJECTS.tar.gz**
+## 🚀 **FEATURED_PROJECTS.tar.gz**
 
-  <table>
-    <tr>
-      <td align="center" valign="top" width="50%">
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
 
-  ### 🔌 [**CKAN MCP SERVER**](https://github.com/datopian/ckan-mcp-server)
-  *Model Context Protocol server enabling AI assistants to interact with CKAN data portals*
+### 🔌 [**CKAN MCP SERVER**](https://github.com/datopian/ckan-mcp-server)
+*Model Context Protocol server enabling AI assistants to interact with CKAN data portals*
 
-  [![MCP Protocol](https://img.shields.io/badge/🤖_MCP_Server-v1.0.0-4FC3F7?style=for-the-badge&logo=python)](https:
-  //github.com/datopian/ckan-mcp-server)
-  [![Docker Deploy](https://img.shields.io/badge/Docker_Ready-Deploy_Now-2196F3?style=for-the-badge&logo=docker)](ht
-  tps://github.com/datopian/ckan-mcp-server)
+[![MCP Server](https://img.shields.io/badge/🤖_MCP_SERVER-v1.0.0-4FC3F7?style=for-the-badge&logo=python)](https://github.com/datopian/ckan-mcp-server)
+[![Docker Ready](https://img.shields.io/badge/🐳_DOCKER_READY-DEPLOY_NOW-2196F3?style=for-the-badge&logo=docker)](https://github.com/datopian/ckan-mcp-server)
 
-  </td>
-  <td align="center" valign="top" width="50%">
+</td>
+<td align="center" valign="top" width="50%">
 
-  ### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)
-  *Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
+### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)
+*Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
 
-  [![Download](https://img.shields.io/badge/🎯_AutoNexus-Download_v1.5.0-ff4444?style=for-the-badge&logo=csharp)](ht
-  tps://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)
-  [![Game Mod](https://img.shields.io/badge/Game_Mod-Born_Again-00ff88?style=for-the-badge&logo=unity)](https://gith
-  ub.com/Abeelha/Born-Again-AutoNexus)
+[![AutoNexus](https://img.shields.io/badge/🎯_AUTONEXUS-DOWNLOAD_V1.5.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)
+[![Game Mod](https://img.shields.io/badge/🎮_GAME_MOD-BORN_AGAIN-00ff88?style=for-the-badge&logo=unity)](https://github.com/Abeelha/Born-Again-AutoNexus)
 
-  </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
 
-  ### 🐝 [**INSTAGRAM MATRIX ANALYZER**](https://github.com/Abeelha/-friends--to-unfollow-instagram)
-  *Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee
-  aesthetics*
+### 🐝 [**INSTAGRAM MATRIX ANALYZER**](https://github.com/Abeelha/-friends--to-unfollow-instagram)
+*Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee aesthetics*
 
-  [![Download](https://img.shields.io/badge/🐝_Download-v0.1.0-ffff00?style=for-the-badge&logo=github)](https://gith
-  ub.com/Abeelha/-friends--to-unfollow-instagram/releases/tag/0.1.0)
-  [![Portable App](https://img.shields.io/badge/Portable_App-Rust_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https
-  ://github.com/Abeelha/-friends--to-unfollow-instagram)
+[![Download](https://img.shields.io/badge/🐝_DOWNLOAD-V0.1.0-ffff00?style=for-the-badge&logo=github)](https://github.com/Abeelha/-friends--to-unfollow-instagram/releases/tag/0.1.0)
+[![Portable App](https://img.shields.io/badge/💾_PORTABLE_APP-RUST_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/-friends--to-unfollow-instagram)
 
-  </td>
-  <td align="center" valign="top" width="50%">
+</td>
+<td align="center" valign="top" width="50%">
 
-  ### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)
-  *Transform websites into mesmerizing fractal art*
+### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)
+*Transform websites into mesmerizing fractal art*
 
-  [![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](
-  https://github.com/Abeelha/fractal-it)
-  [![Extension](https://img.shields.io/badge/Browser_Extension-Available-00ffff?style=for-the-badge&logo=googlechrom
-  e)](https://github.com/Abeelha/fractal-it)
+[![Fractal-it](https://img.shields.io/badge/🎨_FRACTAL--IT-LIVE_DEMO-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)
+[![Extension](https://img.shields.io/badge/🔧_BROWSER_EXTENSION-AVAILABLE-00ffff?style=for-the-badge&logo=googlechrome)](https://github.com/Abeelha/fractal-it)
 
-  </td>
-    </tr>
-  </table>
-
+</td>
+  </tr>
+</table>
 ## 🌌 **CURRENT_STATUS.exe**
 
 <table>
