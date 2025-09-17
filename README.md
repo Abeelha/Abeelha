@@ -20,52 +20,59 @@
 </div>
 
 ---
+  ## 🚀 **FEATURED_PROJECTS.tar.gz**
 
-## 🚀 **FEATURED_PROJECTS.tar.gz**
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-    
-### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)  
-*Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
+  ### 🔌 [**CKAN MCP SERVER**](https://github.com/datopian/ckan-mcp-server)
+  *Model Context Protocol server enabling AI assistants to interact with CKAN data portals*
 
-[![Download](https://img.shields.io/badge/🎯_AutoNexus-Download_v1.5.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)  
-[![Game Mod](https://img.shields.io/badge/Game_Mod-Born_Again-00ff88?style=for-the-badge&logo=unity)](https://github.com/Abeelha/Born-Again-AutoNexus)
+  [![MCP Protocol](https://img.shields.io/badge/🤖_MCP_Server-v1.0.0-4FC3F7?style=for-the-badge&logo=python)](https:
+  //github.com/datopian/ckan-mcp-server)
+  [![Docker Deploy](https://img.shields.io/badge/Docker_Ready-Deploy_Now-2196F3?style=for-the-badge&logo=docker)](ht
+  tps://github.com/datopian/ckan-mcp-server)
 
-</td>
-<td align="center" valign="top" width="50%">
+  </td>
+  <td align="center" valign="top" width="50%">
 
-### 🐝 [**INSTAGRAM MATRIX ANALYZER**](https://github.com/Abeelha/-friends--to-unfollow-instagram)  
-*Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee aesthetics*
+  ### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)
+  *Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
 
-[![Download](https://img.shields.io/badge/🐝_Download-v0.1.0-ffff00?style=for-the-badge&logo=github)](https://github.com/Abeelha/-friends--to-unfollow-instagram/releases/tag/0.1.0)  
-[![Portable App](https://img.shields.io/badge/Portable_App-Rust_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/-friends--to-unfollow-instagram)
+  [![Download](https://img.shields.io/badge/🎯_AutoNexus-Download_v1.5.0-ff4444?style=for-the-badge&logo=csharp)](ht
+  tps://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)
+  [![Game Mod](https://img.shields.io/badge/Game_Mod-Born_Again-00ff88?style=for-the-badge&logo=unity)](https://gith
+  ub.com/Abeelha/Born-Again-AutoNexus)
 
-</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
+  </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
 
-### 🌍 [**WORLD SUSTAINABILITY PORTAL**](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)  
-*AI-powered data portal showcasing global sustainability metrics across 173 countries*
+  ### 🐝 [**INSTAGRAM MATRIX ANALYZER**](https://github.com/Abeelha/-friends--to-unfollow-instagram)
+  *Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee
+  aesthetics*
 
-[![Live Demo](https://img.shields.io/badge/🌍_Live_Portal-Visit_Now-22C55E?style=for-the-badge&logo=nextdotjs)](https://portaljs-world-sustainability-datas.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/📊_Data_Portal-Next.js_+_AI-16A34A?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/portaljs-World-Sustainability-Dataset)
+  [![Download](https://img.shields.io/badge/🐝_Download-v0.1.0-ffff00?style=for-the-badge&logo=github)](https://gith
+  ub.com/Abeelha/-friends--to-unfollow-instagram/releases/tag/0.1.0)
+  [![Portable App](https://img.shields.io/badge/Portable_App-Rust_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https
+  ://github.com/Abeelha/-friends--to-unfollow-instagram)
 
-</td>
-<td align="center" valign="top" width="50%">
+  </td>
+  <td align="center" valign="top" width="50%">
 
-### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)  
-*Transform websites into mesmerizing fractal art*
+  ### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)
+  *Transform websites into mesmerizing fractal art*
 
-[![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)  
-[![Extension](https://img.shields.io/badge/Browser_Extension-Available-00ffff?style=for-the-badge&logo=googlechrome)](https://github.com/Abeelha/fractal-it)
+  [![Fractal-it](https://img.shields.io/badge/🎨_Fractal--it-Live_Demo-ff00ff?style=for-the-badge&logo=typescript)](
+  https://github.com/Abeelha/fractal-it)
+  [![Extension](https://img.shields.io/badge/Browser_Extension-Available-00ffff?style=for-the-badge&logo=googlechrom
+  e)](https://github.com/Abeelha/fractal-it)
 
-</td>
-  </tr>
-</table>
-
+  </td>
+    </tr>
+  </table>
 
 ## 🌌 **CURRENT_STATUS.exe**
 
