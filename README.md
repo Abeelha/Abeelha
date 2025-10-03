@@ -26,11 +26,10 @@
   <tr>
     <td align="center" valign="top" width="50%">
 
-### 🔌 [**CKAN MCP SERVER**](https://github.com/datopian/ckan-mcp-server)
-*Model Context Protocol server enabling AI assistants to interact with CKAN data portals*
+### 🔌 [**PORTALJS MCP SERVER**](https://github.com/datopian/portaljs-mcp-server)
+*Model Context Protocol server enabling AI assistants to interact with PortalJS data portals*
 
-[![MCP Server](https://img.shields.io/badge/🤖_MCP_SERVER-v1.0.0-4FC3F7?style=for-the-badge&logo=python)](https://github.com/datopian/ckan-mcp-server)
-[![Docker Ready](https://img.shields.io/badge/🐳_DOCKER_READY-DEPLOY_NOW-2196F3?style=for-the-badge&logo=docker)](https://github.com/datopian/ckan-mcp-server)
+[![MCP Server](https://img.shields.io/badge/🤖_MCP_SERVER-v1.0.0-4FC3F7?style=for-the-badge&logo=python)](https://github.com/datopian/portaljs-mcp-server)
 
 </td>
 <td align="center" valign="top" width="50%">
