@@ -29,7 +29,8 @@
 ### 🔌 [**PORTALJS MCP SERVER**](https://github.com/datopian/portaljs-mcp-server)
 *Model Context Protocol server enabling AI assistants to interact with PortalJS data portals*
 
-[![MCP Server](https://img.shields.io/badge/🤖_MCP_SERVER-v1.0.0-4FC3F7?style=for-the-badge&logo=python)](https://github.com/datopian/portaljs-mcp-server)
+[![MCP Server](https://img.shields.io/badge/🤖_MCP_SERVER-v1.0.0-4FC3F7?style=for-the-badge&logo=cloudflare)](https://github.com/datopian/portaljs-mcp-server)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/datopian/portaljs-mcp-server)
 
 </td>
 <td align="center" valign="top" width="50%">
