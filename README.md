@@ -159,6 +159,6 @@
 
 **💫 Thanks for visiting my digital realm! Let's build the future together 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=abeelha&style=for-the-badge&color=00ffff" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=abeelha&style=for-the-badge&color=yellowgreen" alt="Profile Views"/>
 
 </div>
