@@ -68,33 +68,6 @@
 
 </td>
   </tr>
-</table>
-## 🌌 **CURRENT_STATUS.exe**
-
-<table>
-<tr><td>
-
-```json
-{
-  "🔭 currently_building": "*Private repo*",
-  "🌱 learning_stack": "DevOps",
-  "👯 collaboration": "Full-Stack Projects",
-  "🤝 seek_my_help": "AI API Integration | Reverse-Engineering"
-}
-```
-
-</td><td>
-
-```json
-{
-  "💬 expertise": ["Cybersecurity", "AI", "Full-Stack"],
-  "⚡ fun_fact": "I code with bee precision 🐝",
-  "🎯 mission": "Building digital ecosystems"
-}
-```
-
-</td></tr>
-</table>
 
 ---
 
