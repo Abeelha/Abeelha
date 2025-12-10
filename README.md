@@ -51,11 +51,11 @@
   <tr>
     <td align="center" valign="top" width="50%">
 
-### 🐝 [**INSTAGRAM FOLLOWER ANALYZER**](https://github.com/Abeelha/-friends--to-unfollow-instagram)
+### 🐝 [**INSTAGRAM FOLLOWER ANALYZER**](https://github.com/Abeelha/instagram-followers-analyzer)
 *Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee aesthetics*
 
-[![Download](https://img.shields.io/badge/🐝_DOWNLOAD-V0.1.0-ffff00?style=for-the-badge&logo=github)](https://github.com/Abeelha/-friends--to-unfollow-instagram/releases/tag/0.1.0)
-[![Portable App](https://img.shields.io/badge/💾_PORTABLE_APP-RUST_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/-friends--to-unfollow-instagram)
+[![Download](https://img.shields.io/badge/🐝_DOWNLOAD-V0.1.0-ffff00?style=for-the-badge&logo=github)](https://github.com/Abeelha/instagram-followers-analyzer/releases/tag/0.1.0)
+[![Portable App](https://img.shields.io/badge/💾_PORTABLE_APP-RUST_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/instagram-followers-analyzer)
 
 </td>
 <td align="center" valign="top" width="50%">
