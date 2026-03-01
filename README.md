@@ -25,13 +25,13 @@
 </div>
 
 ---
-## 🚀 **FEATURED_PROJECTS.tar.gz**
+## **FEATURED_PROJECTS.tar.gz**
 
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
 
-### 🔌 [**PORTALJS MCP SERVER**](https://github.com/datopian/portaljs-mcp-server)
+### [**PORTALJS MCP SERVER**](https://github.com/datopian/portaljs-mcp-server)
 *Model Context Protocol server enabling AI assistants to interact with PortalJS data portals*
 
 [![MCP Server](https://img.shields.io/badge/🤖_MCP_SERVER-v1.0.0-4FC3F7?style=for-the-badge&logo=cloudflare)](https://github.com/datopian/portaljs-mcp-server)
@@ -40,7 +40,7 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-### 🎮 [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)
+### [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)
 *Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
 
 [![AutoNexus](https://img.shields.io/badge/🎯_AUTONEXUS-DOWNLOAD_V1.5.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)
@@ -51,7 +51,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
 
-### 🐝 [**INSTAGRAM FOLLOWER ANALYZER**](https://github.com/Abeelha/instagram-followers-analyzer)
+### [**INSTAGRAM FOLLOWER ANALYZER**](https://github.com/Abeelha/instagram-followers-analyzer)
 *Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee aesthetics*
 
 [![Download](https://img.shields.io/badge/🐝_DOWNLOAD-V0.1.0-ffff00?style=for-the-badge&logo=github)](https://github.com/Abeelha/instagram-followers-analyzer/releases/tag/0.1.0)
@@ -60,7 +60,7 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-### 🎨 [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)
+### [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)
 *Transform websites into mesmerizing fractal art*
 
 [![Fractal-it](https://img.shields.io/badge/🎨_FRACTAL--IT-LIVE_DEMO-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)
@@ -72,7 +72,7 @@
 
 ---
 
-## ⚡ **TECH_ARSENAL.json**
+## **TECH_ARSENAL.json**
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -97,7 +97,7 @@
 
 ---
 
-## 📊 **SYSTEM_ANALYTICS.exe**
+## **SYSTEM_ANALYTICS.exe**
 
 <div align="center">
 
@@ -105,13 +105,13 @@
 <tr>
 <td width="50%">
 
-### 🔥 **Code Distribution Matrix**
+### **Code Distribution Matrix**
 ![Top Languages](https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff)
 
 </td>
 <td width="50%">
 
-### ⚡ **Performance Metrics**  
+### **Performance Metrics**  
 ![GitHub Stats](https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff00ff)
 
 </td>
@@ -119,13 +119,13 @@
 <tr>
 <td width="50%">
 
-### 🚀 **Streak Protocol**
+### **Streak Protocol**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeelha&theme=synthwave&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ffff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff)
 
 </td>
 <td width="50%">
 
-### 🏆 **Achievement Matrix**
+### **Achievement Matrix**
 ![Commits](https://img.shields.io/badge/Total_Commits-1000+-00ffff?style=for-the-badge&logo=github&logoColor=white)<br/>
 ![Repositories](https://img.shields.io/badge/Public_Repos-30+-ff00ff?style=for-the-badge&logo=github&logoColor=white)<br/>
 ![Languages](https://img.shields.io/badge/Languages-10+-ffff00?style=for-the-badge&logo=code&logoColor=black)<br/>
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-### 🌐 **ACTIVITY_GRAPH.render()**
+### **ACTIVITY_GRAPH.render()**
 [![Abeelha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abeelha&theme=synthwave-84&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -157,7 +157,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**💫 Thanks for visiting my digital realm! Let's build the future together 🚀**
+**Thanks for visiting my digital realm! Let's build the future together**
 
 <img src="https://komarev.com/ghpvc/?username=abeelha&style=for-the-badge&color=yellowgreen" alt="Profile Views"/>
 
