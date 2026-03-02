@@ -25,7 +25,6 @@
 </div>
 
 ---
-## **FEATURED_PROJECTS.tar.gz**
 
 <table>
   <tr>
@@ -71,8 +70,6 @@
 </table>
 
 ---
-
-## **TECH_ARSENAL.json**
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -96,8 +93,6 @@
 </div>
 
 ---
-
-## **SYSTEM_ANALYTICS.exe**
 
 <div align="center">
 
@@ -141,7 +136,6 @@
 
 <div align="center">
 
-### **ACTIVITY_GRAPH.render()**
 [![Abeelha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abeelha&theme=synthwave-84&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -156,8 +150,6 @@
 ║                           - Abeelha 🐝                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-**Thanks for visiting my digital realm! Let's build the future together**
 
 <img src="https://komarev.com/ghpvc/?username=abeelha&style=for-the-badge&color=yellowgreen" alt="Profile Views"/>
 
