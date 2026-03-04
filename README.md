@@ -39,7 +39,7 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-### [**BORN AGAIN AUTONEXUS**](https://github.com/Abeelha/Born-Again-AutoNexus)
+### [**BORN AGAIN AUTONEXUS-!ARCHIVED!**](https://github.com/Abeelha/Born-Again-AutoNexus)
 *Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
 
 [![AutoNexus](https://img.shields.io/badge/🎯_AUTONEXUS-DOWNLOAD_V1.5.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)
