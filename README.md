@@ -25,51 +25,6 @@
 </div>
 
 ---
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-
-### [**PORTALJS MCP SERVER**](https://github.com/datopian/portaljs-mcp-server)
-*Model Context Protocol server enabling AI assistants to interact with PortalJS data portals*
-
-[![MCP Server](https://img.shields.io/badge/🤖_MCP_SERVER-v1.0.0-4FC3F7?style=for-the-badge&logo=cloudflare)](https://github.com/datopian/portaljs-mcp-server)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/datopian/portaljs-mcp-server)
-
-</td>
-<td align="center" valign="top" width="50%">
-
-### [**BORN AGAIN AUTONEXUS-!ARCHIVED!**](https://github.com/Abeelha/Born-Again-AutoNexus)
-*Intelligent AutoNexus & AutoPot mod for Born Again with predictive damage detection*
-
-[![AutoNexus](https://img.shields.io/badge/🎯_AUTONEXUS-DOWNLOAD_V1.5.0-ff4444?style=for-the-badge&logo=csharp)](https://github.com/Abeelha/Born-Again-AutoNexus/releases/download/v1.5.0/AutoNexus.dll)
-[![Game Mod](https://img.shields.io/badge/🎮_GAME_MOD-BORN_AGAIN-00ff88?style=for-the-badge&logo=unity)](https://github.com/Abeelha/Born-Again-AutoNexus)
-
-</td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-
-### [**INSTAGRAM FOLLOWER ANALYZER**](https://github.com/Abeelha/instagram-followers-analyzer)
-*Lightning-fast offline tool to analyze Instagram followers and find non-mutual follows with matrix-bee aesthetics*
-
-[![Download](https://img.shields.io/badge/_DOWNLOAD-V0.1.0-ffff00?style=for-the-badge&logo=github)](https://github.com/Abeelha/instagram-followers-analyzer/releases/tag/0.1.0)
-[![Portable App](https://img.shields.io/badge/💾_PORTABLE_APP-RUST_+_TUI-00d4aa?style=for-the-badge&logo=rust)](https://github.com/Abeelha/instagram-followers-analyzer)
-
-</td>
-<td align="center" valign="top" width="50%">
-
-### [**FRACTAL-IT**](https://github.com/Abeelha/fractal-it)
-*Transform websites into mesmerizing fractal art*
-
-[![Fractal-it](https://img.shields.io/badge/🎨_FRACTAL--IT-LIVE_DEMO-ff00ff?style=for-the-badge&logo=typescript)](https://github.com/Abeelha/fractal-it)
-[![Extension](https://img.shields.io/badge/🔧_BROWSER_EXTENSION-AVAILABLE-00ffff?style=for-the-badge&logo=googlechrome)](https://github.com/Abeelha/fractal-it)
-
-</td>
-  </tr>
-</table>
-
----
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
