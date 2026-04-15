@@ -81,7 +81,7 @@
 ![Commits](https://img.shields.io/badge/Total_Commits-1800+-00ffff?style=for-the-badge&logo=github&logoColor=white)<br/>
 ![Repositories](https://img.shields.io/badge/Public_Repos-40+-ff00ff?style=for-the-badge&logo=github&logoColor=white)<br/>
 ![Languages](https://img.shields.io/badge/Languages-10+-ffff00?style=for-the-badge&logo=code&logoColor=black)<br/>
-![Years_Active](https://img.shields.io/badge/Years_Active-6+-00ff00?style=for-the-badge&logo=calendar&logoColor=white)
+![Years_Active](https://img.shields.io/badge/Years_Active-7+-00ff00?style=for-the-badge&logo=calendar&logoColor=white)
 
 </td>
 </tr>
