@@ -10,7 +10,7 @@
 </div>
 
 <table align="center"><tr>
-<td valign="top"><img src="assets/hive-pillar.png" alt=""/></td>
+<td valign="top"><img src="assets/hive-pillar.png" width="180" height="2800" alt=""/></td>
 <td valign="top">
 
 <div align="center"><img src="assets/sec/02.svg" alt="§ 02 · IDENTITY"/></div>
@@ -107,7 +107,7 @@
 </div>
 
 </td>
-<td valign="top"><img src="assets/hive-pillar.png" alt=""/></td>
+<td valign="top"><img src="assets/hive-pillar.png" width="180" height="2800" alt=""/></td>
 </tr></table>
 
 <div align="center">
