@@ -4,28 +4,25 @@
 
 <img src="assets/wordmark.svg" width="500" alt="ABEELHA"/>
 
-
 <a href="https://github.com/Abeelha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=ffb300&center=true&vCenter=true&width=600&lines=a+abelha+n%C3%A3o+reconhece+fronteiras;the+bee+does+not+recognize+borders" alt=""/></a>
 
 </div>
 
-<table align="center"><tr>
-<td valign="top"><img src="assets/hive-pillar.png" width="180" height="2800" alt=""/></td>
-<td valign="top">
-
-<div align="center"><img src="assets/sec/02.svg" alt="§ 02 · IDENTITY"/></div>
+<div align="center"><img src="assets/sec/01.svg" alt="§ 01 · IDENTITY"/></div>
 
 <div align="center"><img src="assets/whoami.svg" width="560" alt="whoami — we invented the borders, the dogma, the noise. i'd rather build, learn, and look up. there are asteroids to mine, a hive to tend."/></div>
 
-<div align="center"><img src="assets/sec/03.svg" alt="§ 03 · MANIFESTO · the invisible walls"/></div>
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
+
+<div align="center"><img src="assets/sec/02.svg" alt="§ 02 · MANIFESTO · the invisible walls"/></div>
 
 <p align="center">countries, dogma, illogical judgment, the default render of reality... none of it is real. mostly questions. some code. learning out loud. <i>particles · hives · cosmos · the chaos we're in.</i></p>
 
-<br/>
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
 <div align="center">
 
-<img src="assets/sec/04.svg" alt="§ 04 · ARSENAL"/>
+<img src="assets/sec/03.svg" alt="§ 03 · ARSENAL"/>
 
 <br/><br/>
 
@@ -46,11 +43,11 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
 <div align="center">
 
-<img src="assets/sec/05.svg" alt="§ 05 · SIGNALS"/>
+<img src="assets/sec/04.svg" alt="§ 04 · SIGNALS"/>
 
 <br/><br/>
 
@@ -63,11 +60,11 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
 <div align="center">
 
-<img src="assets/sec/06.svg" alt="§ 06 · FREQUENCIES · what's in my ears"/>
+<img src="assets/sec/05.svg" alt="§ 05 · FREQUENCIES · what's in my ears"/>
 
 <table><tr>
 <td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HvjDlyNGkPk59j-7FIo2ou"><img src="assets/covers/01-odinochestvo.png" width="150" alt="одиночество"/><br/>одиночество</a></td>
@@ -81,20 +78,22 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
 <div align="center">
 
-<img src="assets/sec/07.svg" alt="§ 07 · TRANSMISSIONS"/>
+<img src="assets/sec/06.svg" alt="§ 06 · TRANSMISSIONS"/>
 
 <br/><br/>
 
 <table><tr>
 <td align="center"><a href="https://github.com/Abeelha/fractal-it"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=fractal-it&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="fractal-it — math-rendered web"/></a></td>
 <td align="center"><a href="https://github.com/Abeelha/mp4-mp3-transcript"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=mp4-mp3-transcript&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="mp4-mp3-transcript — offline AI"/></a></td>
-</tr><tr>
 <td align="center"><a href="https://github.com/Abeelha/windows-mic-lock"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=windows-mic-lock&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="windows-mic-lock"/></a></td>
+</tr><tr>
 <td align="center"><a href="https://github.com/Abeelha/Born-Again-AutoNexus"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Born-Again-AutoNexus&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Born-Again-AutoNexus — game mod"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/Combined-HBG-and-Bow"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Combined-HBG-and-Bow&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Combined-HBG-and-Bow — MHWilds mods"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/FFW-mods"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=FFW-mods&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="FFW-mods — Far Far West mods"/></a></td>
 </tr></table>
 
 <table><tr>
@@ -105,10 +104,6 @@
 <sub><i>some work stays in the dark. ask nicely.</i></sub>
 
 </div>
-
-</td>
-<td valign="top"><img src="assets/hive-pillar.png" width="180" height="2800" alt=""/></td>
-</tr></table>
 
 <div align="center">
 

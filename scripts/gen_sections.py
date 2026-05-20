@@ -3,12 +3,12 @@
 import os
 
 SECS = [
-    ("02", "IDENTITY"),
-    ("03", "MANIFESTO · the invisible walls"),
-    ("04", "ARSENAL"),
-    ("05", "SIGNALS"),
-    ("06", "FREQUENCIES · what's in my ears"),
-    ("07", "TRANSMISSIONS"),
+    ("01", "IDENTITY"),
+    ("02", "MANIFESTO · the invisible walls"),
+    ("03", "ARSENAL"),
+    ("04", "SIGNALS"),
+    ("05", "FREQUENCIES · what's in my ears"),
+    ("06", "TRANSMISSIONS"),
 ]
 os.makedirs("assets/sec", exist_ok=True)
 for num, name in SECS:
