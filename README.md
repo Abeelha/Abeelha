@@ -20,9 +20,9 @@
 
 <div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
-<div align="center">
+<div align="center"><img src="assets/sec/03.svg" alt="§ 03 · ARSENAL"/></div>
 
-<img src="assets/sec/03.svg" alt="§ 03 · ARSENAL"/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/TypeScript-1f6b1f?style=flat-square&logo=typescript&logoColor=ffb300" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-050807?style=flat-square&logo=javascript&logoColor=ffb300" alt="JavaScript"/>
@@ -87,9 +87,9 @@
 
 <div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
-<div align="center">
+<div align="center"><img src="assets/sec/04.svg" alt="§ 04 · SIGNALS"/></div>
 
-<img src="assets/sec/04.svg" alt="§ 04 · SIGNALS"/>
+<div align="center">
 
 <img src="https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" height="150" alt="stats"/>
 <img src="https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14" height="150" alt="top langs"/>
