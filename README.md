@@ -91,3 +91,15 @@ there are asteroids to mine, a hive to tend.
 <sub><i>some work stays in the dark. ask nicely.</i></sub>
 
 </div>
+
+<div align="center">
+
+<img src="assets/header.svg" width="100%" alt=""/>
+
+<sub><code>stop the nonsense. evolve. mine the sky.</code></sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abeelha&style=flat-square&color=ffb300" alt="views"/>
+
+</div>
