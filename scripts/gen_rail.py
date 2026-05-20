@@ -4,7 +4,7 @@
 from PIL import Image
 
 SRC = r"C:\Users\Abeelha\Downloads\hive-sides.png"
-W, TARGET_H = 160, 5200          # display at width=48 -> ~1560px tall, aspect ~matches source
+W, TARGET_H = 200, 4100          # display at width=90 -> ~1845px tall, thicker rails, full body
 
 src = Image.open(SRC).convert("RGBA")
 h = max(1, int(src.height * W / src.width))

@@ -11,17 +11,12 @@
 </div>
 
 <table align="center"><tr>
-<td valign="top" width="48"><img src="assets/hive-rail.png" width="48" alt=""/></td>
+<td valign="top" width="90"><img src="assets/hive-rail.png" width="90" alt=""/></td>
 <td valign="top" width="760">
 
 <div align="center"><sub><code>§ 02 · IDENTITY</code></sub></div>
 
-<pre>
-&gt; whoami
-we invented the borders, the dogma, the noise.
-i'd rather build, learn, and look up.
-there are asteroids to mine, a hive to tend.
-</pre>
+<div align="center"><img src="assets/whoami.svg" width="560" alt="whoami — we invented the borders, the dogma, the noise. i'd rather build, learn, and look up. there are asteroids to mine, a hive to tend."/></div>
 
 <div align="center"><sub><code>§ 03 · MANIFESTO — the invisible walls</code></sub></div>
 
@@ -65,7 +60,7 @@ there are asteroids to mine, a hive to tend.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abeelha&hide_border=true&background=050807&stroke=1f6b1f&ring=ffb300&fire=ffb300&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffb300&sideLabels=39ff14&dates=5a7a5a" height="150" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=abeelha&hide_border=true&background=050807&stroke=1f6b1f&ring=ffb300&fire=ffb300&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffb300&sideLabels=39ff14&dates=5a7a5a" height="150" alt="streak"/>
 
 </div>
 
@@ -95,7 +90,13 @@ there are asteroids to mine, a hive to tend.
 
 <br/><br/>
 
-<a href="https://github.com/Abeelha?tab=repositories"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Abeelha&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt="pinned"/></a>
+<table><tr>
+<td align="center"><a href="https://github.com/Abeelha/fractal-it"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=fractal-it&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt="fractal-it — math-rendered web"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/mp4-mp3-transcript"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=mp4-mp3-transcript&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt="mp4-mp3-transcript — offline AI"/></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/Abeelha/windows-mic-lock"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=windows-mic-lock&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt="windows-mic-lock"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/Born-Again-AutoNexus"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Born-Again-AutoNexus&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt="Born-Again-AutoNexus — game mod"/></a></td>
+</tr></table>
 
 <table><tr>
 <td align="center"><code>██ [CLASSIFIED] ██</code><br/><sub>reverse-engineering · undisclosed</sub></td>
@@ -107,7 +108,7 @@ there are asteroids to mine, a hive to tend.
 </div>
 
 </td>
-<td valign="top" width="48"><img src="assets/hive-rail.png" width="48" alt=""/></td>
+<td valign="top" width="90"><img src="assets/hive-rail.png" width="90" alt=""/></td>
 </tr></table>
 
 <div align="center">

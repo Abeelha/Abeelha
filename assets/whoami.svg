@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="208" viewBox="0 0 680 208" font-family="'JetBrains Mono','Fira Code',Consolas,ui-monospace,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a120a"/>
+      <stop offset="1" stop-color="#050807"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="677" height="205" rx="10" fill="url(#bg)" stroke="#1f6b1f" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="677" height="30" rx="10" fill="#0d140d"/>
+  <rect x="1.5" y="20" width="677" height="12" fill="#0d140d"/>
+  <line x1="1.5" y1="31.5" x2="678.5" y2="31.5" stroke="#1f6b1f" stroke-width="1"/>
+  <circle cx="22" cy="16" r="5" fill="#c1121f"/>
+  <circle cx="40" cy="16" r="5" fill="#ffb300"/>
+  <circle cx="58" cy="16" r="5" fill="#39ff14"/>
+  <text x="340" y="20" text-anchor="middle" font-size="12" fill="#5a7a5a">abeelha@hive: ~</text>
+  <text x="24" y="66" font-size="15" fill="#ffb300">&gt; <tspan fill="#39ff14">whoami</tspan></text>
+  <text x="24" y="98" font-size="14.5" fill="#9dffa0">we invented the borders, the dogma, the noise.</text>
+  <text x="24" y="126" font-size="14.5" fill="#9dffa0">i'd rather build, learn, and look up.</text>
+  <text x="24" y="154" font-size="14.5" fill="#ffd98a">there are asteroids to mine, a hive to tend.</text>
+  <text x="24" y="188" font-size="14.5" fill="#39ff14">&gt;</text>
+  <rect x="40" y="177" width="9" height="14" fill="#39ff14">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
