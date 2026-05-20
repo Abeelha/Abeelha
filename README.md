@@ -6,7 +6,7 @@
 
 <img src="assets/trippy-ascii-bee.png" width="150" alt="bee"/>
 
-<a href="https://github.com/Abeelha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFB300&center=true&vCenter=true&width=600&lines=a+abelha+n%C3%A3o+reconhece+fronteiras;the+bee+does+not+recognize+borders" alt=""/></a>
+<a href="https://github.com/Abeelha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=ffb300&center=true&vCenter=true&width=600&lines=a+abelha+n%C3%A3o+reconhece+fronteiras;the+bee+does+not+recognize+borders" alt=""/></a>
 
 </div>
 
@@ -66,13 +66,13 @@ there are asteroids to mine, a hive to tend.
 <sub><code>§ 06 · FREQUENCIES — what's in my ears</code></sub>
 
 <table><tr>
-<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HvjDlyNGkPk59j-7FIo2ou"><img src="assets/covers/01-odinochestvo.png" width="150"/><br/>одиночество</a></td>
-<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2FP425gSzx7o6BlEQ3T9sLm"><img src="assets/covers/02-macroblank.png" width="150"/><br/>MacroBlank</a></td>
-<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EAYB-X6f59dXzzdBxEvEwg"><img src="assets/covers/03-coding.png" width="150"/><br/>coding music</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HvjDlyNGkPk59j-7FIo2ou"><img src="assets/covers/01-odinochestvo.png" width="150" alt="одиночество"/><br/>одиночество</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2FP425gSzx7o6BlEQ3T9sLm"><img src="assets/covers/02-macroblank.png" width="150" alt="MacroBlank"/><br/>MacroBlank</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EAYB-X6f59dXzzdBxEvEwg"><img src="assets/covers/03-coding.png" width="150" alt="coding music"/><br/>coding music</a></td>
 </tr><tr>
-<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HItVmSzrbI_8jhCkPqzvDn"><img src="assets/covers/04-exphiphop.png" width="150"/><br/>experimental hiphop</a></td>
-<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2GYdTD1KB-btF9-fIWTf8e2"><img src="assets/covers/05-electro.png" width="150"/><br/>electro</a></td>
-<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EnYSCBRHH8ywIK66yzOXVT"><img src="assets/covers/06-random.png" width="150"/><br/>Random</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HItVmSzrbI_8jhCkPqzvDn"><img src="assets/covers/04-exphiphop.png" width="150" alt="experimental hiphop"/><br/>experimental hiphop</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2GYdTD1KB-btF9-fIWTf8e2"><img src="assets/covers/05-electro.png" width="150" alt="electro"/><br/>electro</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EnYSCBRHH8ywIK66yzOXVT"><img src="assets/covers/06-random.png" width="150" alt="Random"/><br/>Random</a></td>
 </tr></table>
 
 </div>
