@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="200" viewBox="0 0 680 200" font-family="'JetBrains Mono','Fira Code',Consolas,ui-monospace,monospace">
+  <defs>
+    <linearGradient id="mbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a120a"/>
+      <stop offset="1" stop-color="#050807"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="677" height="197" rx="10" fill="url(#mbg)" stroke="#1f6b1f" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="6" height="197" fill="#ffb300"/>
+  <text x="44" y="40" font-size="12" letter-spacing="2" fill="#1f6b1f">// transmission</text>
+  <text x="44" y="74" font-size="16" fill="#9dffa0">countries, dogma, illogical judgment, the default</text>
+  <text x="44" y="100" font-size="16" fill="#9dffa0">render of reality... <tspan fill="#ffb300" font-weight="700">none of it is real.</tspan></text>
+  <text x="44" y="134" font-size="16" fill="#7fae8a">mostly questions. some code. learning out loud.</text>
+  <text x="44" y="170" font-size="16" font-style="italic" fill="#7af8ff">particles · hives · cosmos · the chaos we're in.</text>
+</svg>

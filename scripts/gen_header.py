@@ -1,6 +1,6 @@
 # scripts/gen_header.py  ->  assets/header.svg
 import math, random, os
-W, H, R = 1200, 220, 24
+W, H, R = 1200, 100, 22
 dx, dy = R * 1.5, R * math.sqrt(3)
 random.seed(7)
 

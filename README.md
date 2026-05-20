@@ -16,7 +16,7 @@
 
 <div align="center"><img src="assets/sec/02.svg" alt="§ 02 · MANIFESTO · the invisible walls"/></div>
 
-<p align="center">countries, dogma, illogical judgment, the default render of reality... none of it is real. mostly questions. some code. learning out loud. <i>particles · hives · cosmos · the chaos we're in.</i></p>
+<div align="center"><img src="assets/manifesto.svg" width="640" alt="countries, dogma, illogical judgment, the default render of reality... none of it is real. mostly questions. some code. learning out loud. particles · hives · cosmos · the chaos we're in."/></div>
 
 <div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
