@@ -11,8 +11,8 @@
 </div>
 
 <table align="center"><tr>
-<td valign="top"><img src="assets/hive-sides.png" width="54" alt=""/></td>
-<td valign="top" width="720">
+<td valign="top" width="48"><img src="assets/hive-rail.png" width="48" alt=""/></td>
+<td valign="top" width="760">
 
 <div align="center"><sub><code>§ 02 · IDENTITY</code></sub></div>
 
@@ -25,41 +25,51 @@ there are asteroids to mine, a hive to tend.
 
 <div align="center"><sub><code>§ 03 · MANIFESTO — the invisible walls</code></sub></div>
 
-<p>countries, dogma, illogical judgment, the default render of reality... none of it is real. mostly questions. some code. learning out loud. <i>particles · hives · cosmos · the chaos we're in.</i></p>
+<p align="center">countries, dogma, illogical judgment, the default render of reality... none of it is real. mostly questions. some code. learning out loud. <i>particles · hives · cosmos · the chaos we're in.</i></p>
 
-</td>
-<td valign="top"><img src="assets/hive-sides.png" width="54" alt=""/></td>
-</tr></table>
+<br/>
 
 <div align="center">
 
 <sub><code>§ 04 · ARSENAL</code></sub>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1f6b1f?style=flat-square&logo=typescript&logoColor=ffb300)
-![Rust](https://img.shields.io/badge/Rust-050807?style=flat-square&logo=rust&logoColor=ffb300)
-![C#](https://img.shields.io/badge/C%23-1f6b1f?style=flat-square&logo=csharp&logoColor=ffb300)
-![Lua](https://img.shields.io/badge/Lua-050807?style=flat-square&logo=lua&logoColor=ffb300)
-![Python](https://img.shields.io/badge/Python-1f6b1f?style=flat-square&logo=python&logoColor=ffb300)
-![C++](https://img.shields.io/badge/C%2B%2B-050807?style=flat-square&logo=cplusplus&logoColor=ffb300)
-![React](https://img.shields.io/badge/React-1f6b1f?style=flat-square&logo=react&logoColor=ffb300)
-![Next.js](https://img.shields.io/badge/Next.js-050807?style=flat-square&logo=nextdotjs&logoColor=ffb300)
-![Node.js](https://img.shields.io/badge/Node.js-1f6b1f?style=flat-square&logo=nodedotjs&logoColor=ffb300)
-![Docker](https://img.shields.io/badge/Docker-050807?style=flat-square&logo=docker&logoColor=ffb300)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TypeScript-1f6b1f?style=flat-square&logo=typescript&logoColor=ffb300" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Rust-050807?style=flat-square&logo=rust&logoColor=ffb300" alt="Rust"/>
+<img src="https://img.shields.io/badge/C%23-1f6b1f?style=flat-square&logo=csharp&logoColor=ffb300" alt="C#"/>
+<img src="https://img.shields.io/badge/Lua-050807?style=flat-square&logo=lua&logoColor=ffb300" alt="Lua"/>
+<img src="https://img.shields.io/badge/Python-1f6b1f?style=flat-square&logo=python&logoColor=ffb300" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050807?style=flat-square&logo=cplusplus&logoColor=ffb300" alt="C++"/>
+<img src="https://img.shields.io/badge/React-1f6b1f?style=flat-square&logo=react&logoColor=ffb300" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-050807?style=flat-square&logo=nextdotjs&logoColor=ffb300" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-1f6b1f?style=flat-square&logo=nodedotjs&logoColor=ffb300" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Docker-050807?style=flat-square&logo=docker&logoColor=ffb300" alt="Docker"/>
+
+<br/>
 
 <sub><code>+ reverse-engineering · sec · game-modding</code></sub>
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <sub><code>§ 05 · SIGNALS</code></sub>
 
-<img src="https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" height="150" alt=""/>
-<img src="https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14" height="150" alt=""/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abeelha&hide_border=true&background=050807&stroke=1f6b1f&ring=ffb300&fire=ffb300&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffb300&sideLabels=39ff14&dates=5a7a5a" height="150" alt=""/>
+<img src="https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" height="150" alt="stats"/>
+<img src="https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14" height="150" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abeelha&hide_border=true&background=050807&stroke=1f6b1f&ring=ffb300&fire=ffb300&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffb300&sideLabels=39ff14&dates=5a7a5a" height="150" alt="streak"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -77,11 +87,15 @@ there are asteroids to mine, a hive to tend.
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <sub><code>§ 07 · TRANSMISSIONS</code></sub>
 
-<a href="https://github.com/Abeelha?tab=repositories"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Abeelha&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt=""/></a>
+<br/><br/>
+
+<a href="https://github.com/Abeelha?tab=repositories"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Abeelha&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt="pinned"/></a>
 
 <table><tr>
 <td align="center"><code>██ [CLASSIFIED] ██</code><br/><sub>reverse-engineering · undisclosed</sub></td>
@@ -91,6 +105,10 @@ there are asteroids to mine, a hive to tend.
 <sub><i>some work stays in the dark. ask nicely.</i></sub>
 
 </div>
+
+</td>
+<td valign="top" width="48"><img src="assets/hive-rail.png" width="48" alt=""/></td>
+</tr></table>
 
 <div align="center">
 
