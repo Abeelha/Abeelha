@@ -10,7 +10,7 @@
 </div>
 
 <table align="center"><tr>
-<td valign="top" width="120"><img src="assets/hive-pillar.png" alt=""/></td>
+<td valign="top"><img src="assets/hive-pillar.png" alt=""/></td>
 <td valign="top">
 
 <div align="center"><img src="assets/sec/02.svg" alt="§ 02 · IDENTITY"/></div>
@@ -90,11 +90,11 @@
 <br/><br/>
 
 <table><tr>
-<td align="center"><a href="https://github.com/Abeelha/fractal-it"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=fractal-it&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="330" alt="fractal-it — math-rendered web"/></a></td>
-<td align="center"><a href="https://github.com/Abeelha/mp4-mp3-transcript"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=mp4-mp3-transcript&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="330" alt="mp4-mp3-transcript — offline AI"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/fractal-it"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=fractal-it&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="fractal-it — math-rendered web"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/mp4-mp3-transcript"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=mp4-mp3-transcript&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="mp4-mp3-transcript — offline AI"/></a></td>
 </tr><tr>
-<td align="center"><a href="https://github.com/Abeelha/windows-mic-lock"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=windows-mic-lock&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="330" alt="windows-mic-lock"/></a></td>
-<td align="center"><a href="https://github.com/Abeelha/Born-Again-AutoNexus"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Born-Again-AutoNexus&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="330" alt="Born-Again-AutoNexus — game mod"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/windows-mic-lock"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=windows-mic-lock&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="windows-mic-lock"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/Born-Again-AutoNexus"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Born-Again-AutoNexus&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Born-Again-AutoNexus — game mod"/></a></td>
 </tr></table>
 
 <table><tr>
@@ -107,7 +107,7 @@
 </div>
 
 </td>
-<td valign="top" width="120"><img src="assets/hive-pillar.png" width="120" alt=""/></td>
+<td valign="top"><img src="assets/hive-pillar.png" alt=""/></td>
 </tr></table>
 
 <div align="center">
