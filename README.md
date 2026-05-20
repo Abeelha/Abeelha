@@ -76,3 +76,18 @@ there are asteroids to mine, a hive to tend.
 </tr></table>
 
 </div>
+
+<div align="center">
+
+<sub><code>§ 07 · TRANSMISSIONS</code></sub>
+
+<a href="https://github.com/Abeelha?tab=repositories"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Abeelha&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" alt=""/></a>
+
+<table><tr>
+<td align="center"><code>██ [CLASSIFIED] ██</code><br/><sub>reverse-engineering · undisclosed</sub></td>
+<td align="center"><code>██ [REDACTED] ██</code><br/><sub>the hive keeps its own</sub></td>
+</tr></table>
+
+<sub><i>some work stays in the dark. ask nicely.</i></sub>
+
+</div>
