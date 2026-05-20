@@ -60,3 +60,19 @@ there are asteroids to mine, a hive to tend.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeelha&hide_border=true&background=050807&stroke=1f6b1f&ring=ffb300&fire=ffb300&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffb300&sideLabels=39ff14&dates=5a7a5a" height="150" alt=""/>
 
 </div>
+
+<div align="center">
+
+<sub><code>§ 06 · FREQUENCIES — what's in my ears</code></sub>
+
+<table><tr>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HvjDlyNGkPk59j-7FIo2ou"><img src="assets/covers/01-odinochestvo.png" width="150"/><br/>одиночество</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2FP425gSzx7o6BlEQ3T9sLm"><img src="assets/covers/02-macroblank.png" width="150"/><br/>MacroBlank</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EAYB-X6f59dXzzdBxEvEwg"><img src="assets/covers/03-coding.png" width="150"/><br/>coding music</a></td>
+</tr><tr>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HItVmSzrbI_8jhCkPqzvDn"><img src="assets/covers/04-exphiphop.png" width="150"/><br/>experimental hiphop</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2GYdTD1KB-btF9-fIWTf8e2"><img src="assets/covers/05-electro.png" width="150"/><br/>electro</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EnYSCBRHH8ywIK66yzOXVT"><img src="assets/covers/06-random.png" width="150"/><br/>Random</a></td>
+</tr></table>
+
+</div>
