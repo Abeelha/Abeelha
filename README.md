@@ -30,3 +30,22 @@ there are asteroids to mine, a hive to tend.
 </td>
 <td valign="top"><img src="assets/hive-sides.png" width="54" alt=""/></td>
 </tr></table>
+
+<div align="center">
+
+<sub><code>§ 04 · ARSENAL</code></sub>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1f6b1f?style=flat-square&logo=typescript&logoColor=ffb300)
+![Rust](https://img.shields.io/badge/Rust-050807?style=flat-square&logo=rust&logoColor=ffb300)
+![C#](https://img.shields.io/badge/C%23-1f6b1f?style=flat-square&logo=csharp&logoColor=ffb300)
+![Lua](https://img.shields.io/badge/Lua-050807?style=flat-square&logo=lua&logoColor=ffb300)
+![Python](https://img.shields.io/badge/Python-1f6b1f?style=flat-square&logo=python&logoColor=ffb300)
+![C++](https://img.shields.io/badge/C%2B%2B-050807?style=flat-square&logo=cplusplus&logoColor=ffb300)
+![React](https://img.shields.io/badge/React-1f6b1f?style=flat-square&logo=react&logoColor=ffb300)
+![Next.js](https://img.shields.io/badge/Next.js-050807?style=flat-square&logo=nextdotjs&logoColor=ffb300)
+![Node.js](https://img.shields.io/badge/Node.js-1f6b1f?style=flat-square&logo=nodedotjs&logoColor=ffb300)
+![Docker](https://img.shields.io/badge/Docker-050807?style=flat-square&logo=docker&logoColor=ffb300)
+
+<sub><code>+ reverse-engineering · sec · game-modding</code></sub>
+
+</div>
