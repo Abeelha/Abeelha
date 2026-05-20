@@ -24,18 +24,60 @@
 
 <img src="assets/sec/03.svg" alt="§ 03 · ARSENAL"/>
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/TypeScript-1f6b1f?style=flat-square&logo=typescript&logoColor=ffb300" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-050807?style=flat-square&logo=javascript&logoColor=ffb300" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-1f6b1f?style=flat-square&logo=python&logoColor=ffb300" alt="Python"/>
 <img src="https://img.shields.io/badge/Rust-050807?style=flat-square&logo=rust&logoColor=ffb300" alt="Rust"/>
 <img src="https://img.shields.io/badge/C%23-1f6b1f?style=flat-square&logo=csharp&logoColor=ffb300" alt="C#"/>
-<img src="https://img.shields.io/badge/Lua-050807?style=flat-square&logo=lua&logoColor=ffb300" alt="Lua"/>
-<img src="https://img.shields.io/badge/Python-1f6b1f?style=flat-square&logo=python&logoColor=ffb300" alt="Python"/>
 <img src="https://img.shields.io/badge/C%2B%2B-050807?style=flat-square&logo=cplusplus&logoColor=ffb300" alt="C++"/>
-<img src="https://img.shields.io/badge/React-1f6b1f?style=flat-square&logo=react&logoColor=ffb300" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-050807?style=flat-square&logo=nextdotjs&logoColor=ffb300" alt="Next.js"/>
+<img src="https://img.shields.io/badge/C-1f6b1f?style=flat-square&logo=c&logoColor=ffb300" alt="C"/>
+<img src="https://img.shields.io/badge/Lua-050807?style=flat-square&logo=lua&logoColor=ffb300" alt="Lua"/>
+<img src="https://img.shields.io/badge/Go-1f6b1f?style=flat-square&logo=go&logoColor=ffb300" alt="Go"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-050807?style=flat-square&logo=react&logoColor=ffb300" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-1f6b1f?style=flat-square&logo=nextdotjs&logoColor=ffb300" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vue.js-050807?style=flat-square&logo=vuedotjs&logoColor=ffb300" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Tailwind-1f6b1f?style=flat-square&logo=tailwindcss&logoColor=ffb300" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/HTML5-050807?style=flat-square&logo=html5&logoColor=ffb300" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1f6b1f?style=flat-square&logo=css3&logoColor=ffb300" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Vite-050807?style=flat-square&logo=vite&logoColor=ffb300" alt="Vite"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Node.js-1f6b1f?style=flat-square&logo=nodedotjs&logoColor=ffb300" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Django-050807?style=flat-square&logo=django&logoColor=ffb300" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-1f6b1f?style=flat-square&logo=fastapi&logoColor=ffb300" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/.NET-050807?style=flat-square&logo=dotnet&logoColor=ffb300" alt=".NET"/>
+<img src="https://img.shields.io/badge/Express-1f6b1f?style=flat-square&logo=express&logoColor=ffb300" alt="Express"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-050807?style=flat-square&logo=postgresql&logoColor=ffb300" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-1f6b1f?style=flat-square&logo=mongodb&logoColor=ffb300" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-050807?style=flat-square&logo=redis&logoColor=ffb300" alt="Redis"/>
+<img src="https://img.shields.io/badge/SQLite-1f6b1f?style=flat-square&logo=sqlite&logoColor=ffb300" alt="SQLite"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Docker-050807?style=flat-square&logo=docker&logoColor=ffb300" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-1f6b1f?style=flat-square&logo=amazonaws&logoColor=ffb300" alt="AWS"/>
+<img src="https://img.shields.io/badge/Cloudflare-050807?style=flat-square&logo=cloudflare&logoColor=ffb300" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Vercel-1f6b1f?style=flat-square&logo=vercel&logoColor=ffb300" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Linux-050807?style=flat-square&logo=linux&logoColor=ffb300" alt="Linux"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-1f6b1f?style=flat-square&logo=githubactions&logoColor=ffb300" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Nginx-050807?style=flat-square&logo=nginx&logoColor=ffb300" alt="Nginx"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-1f6b1f?style=flat-square&logo=git&logoColor=ffb300" alt="Git"/>
+<img src="https://img.shields.io/badge/Unity-050807?style=flat-square&logo=unity&logoColor=ffb300" alt="Unity"/>
+<img src="https://img.shields.io/badge/Godot-1f6b1f?style=flat-square&logo=godotengine&logoColor=ffb300" alt="Godot"/>
+<img src="https://img.shields.io/badge/Neovim-050807?style=flat-square&logo=neovim&logoColor=ffb300" alt="Neovim"/>
+<img src="https://img.shields.io/badge/n8n-1f6b1f?style=flat-square&logo=n8n&logoColor=ffb300" alt="n8n"/>
+<img src="https://img.shields.io/badge/Bash-050807?style=flat-square&logo=gnubash&logoColor=ffb300" alt="GNU Bash"/>
+<img src="https://img.shields.io/badge/PowerShell-1f6b1f?style=flat-square&logo=powershell&logoColor=ffb300" alt="PowerShell"/>
 
 <br/>
 
@@ -48,8 +90,6 @@
 <div align="center">
 
 <img src="assets/sec/04.svg" alt="§ 04 · SIGNALS"/>
-
-<br/><br/>
 
 <img src="https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" height="150" alt="stats"/>
 <img src="https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14" height="150" alt="top langs"/>
