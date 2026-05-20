@@ -4,7 +4,7 @@
 from PIL import Image
 
 SRC = r"C:\Users\Abeelha\Downloads\hive-sides.png"
-W, TARGET_H = 200, 3200          # display at width=120 -> ~1920px tall, thick rails, full body
+W, TARGET_H = 200, 5300          # display at width=120 -> ~3180px tall, +3 tiles, reaches page bottom
 
 src = Image.open(SRC).convert("RGBA")
 h = max(1, int(src.height * W / src.width))
