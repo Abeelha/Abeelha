@@ -49,3 +49,14 @@ there are asteroids to mine, a hive to tend.
 <sub><code>+ reverse-engineering · sec · game-modding</code></sub>
 
 </div>
+
+<div align="center">
+
+<sub><code>§ 05 · SIGNALS</code></sub>
+
+<img src="https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" height="150" alt=""/>
+<img src="https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14" height="150" alt=""/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abeelha&hide_border=true&background=050807&stroke=1f6b1f&ring=ffb300&fire=ffb300&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffb300&sideLabels=39ff14&dates=5a7a5a" height="150" alt=""/>
+
+</div>
