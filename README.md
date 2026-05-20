@@ -1,105 +1,158 @@
 <div align="center">
 
-```
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬛⬛⬜⬛⬛⬜⬜⬜⬜⬜⬜
-⬜⬜⬛🟦🟦⬛🟦🟦⬛⬜⬜⬜⬜⬜
-⬜⬜⬜⬛🟦⬛🟦⬛⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬛🟦⬛⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
-⬜⬜⬛🟨🟨⬛🟨⬛⬛⬜⬜⬜⬜⬜
-⬜⬛🟨🟨🟨⬛🟨⬛🟨⬛⬜⬜⬜⬜
-⬜⬛🟨⬛🟨⬛🟨⬛🟨🟨⬛⬛⬛⬜
-⬜⬛🟨🟨🟨⬛🟨⬛🟨⬛⬜⬜⬜⬜
-⬜⬜⬛🟨🟨⬛🟨⬛⬛⬜⬜⬜⬜⬜
-⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-```
+<img src="assets/header.svg" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Cybersecurity+Enthusiast;AI+%26+DevOps+Explorer;Welcome+to+the+Hive+🐝" alt="Typing SVG"/>
+<img src="assets/wordmark.svg" width="500" alt="ABEELHA"/>
 
-### `> whoami`
-**🇧🇷 Passionate Full-Stack Developer from Brasil • 🐝 Digital Bee in the Tech Hive**
-
+<a href="https://github.com/Abeelha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=ffb300&center=true&vCenter=true&width=600&lines=a+abelha+n%C3%A3o+reconhece+fronteiras;the+bee+does+not+recognize+borders" alt=""/></a>
 
 </div>
 
----
+<div align="center"><img src="assets/sec/01.svg" alt="§ 01 · IDENTITY"/></div>
+
+<div align="center"><img src="assets/whoami.svg" width="560" alt="whoami — we invented the borders, the dogma, the noise. i'd rather build, learn, and look up. there are asteroids to mine, a hive to tend."/></div>
+
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
+
+<div align="center"><img src="assets/sec/02.svg" alt="§ 02 · MANIFESTO · the invisible walls"/></div>
+
+<div align="center"><img src="assets/manifesto.svg" width="640" alt="countries, dogma, illogical judgment, the default render of reality... none of it is real. mostly questions. some code. learning out loud. particles · hives · cosmos · the chaos we're in."/></div>
+
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
+
+<div align="center"><img src="assets/sec/03.svg" alt="§ 03 · ARSENAL"/></div>
+
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<img src="https://img.shields.io/badge/TypeScript-1f6b1f?style=flat-square&logo=typescript&logoColor=ffb300" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-050807?style=flat-square&logo=javascript&logoColor=ffb300" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-1f6b1f?style=flat-square&logo=python&logoColor=ffb300" alt="Python"/>
+<img src="https://img.shields.io/badge/Rust-050807?style=flat-square&logo=rust&logoColor=ffb300" alt="Rust"/>
+<img src="https://img.shields.io/badge/C%23-1f6b1f?style=flat-square&logo=csharp&logoColor=ffb300" alt="C#"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050807?style=flat-square&logo=cplusplus&logoColor=ffb300" alt="C++"/>
+<img src="https://img.shields.io/badge/C-1f6b1f?style=flat-square&logo=c&logoColor=ffb300" alt="C"/>
+<img src="https://img.shields.io/badge/Lua-050807?style=flat-square&logo=lua&logoColor=ffb300" alt="Lua"/>
+<img src="https://img.shields.io/badge/Go-1f6b1f?style=flat-square&logo=go&logoColor=ffb300" alt="Go"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+<br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<img src="https://img.shields.io/badge/React-050807?style=flat-square&logo=react&logoColor=ffb300" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-1f6b1f?style=flat-square&logo=nextdotjs&logoColor=ffb300" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vue.js-050807?style=flat-square&logo=vuedotjs&logoColor=ffb300" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Tailwind-1f6b1f?style=flat-square&logo=tailwindcss&logoColor=ffb300" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/HTML5-050807?style=flat-square&logo=html5&logoColor=ffb300" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1f6b1f?style=flat-square&logo=css3&logoColor=ffb300" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Vite-050807?style=flat-square&logo=vite&logoColor=ffb300" alt="Vite"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-1f6b1f?style=flat-square&logo=nodedotjs&logoColor=ffb300" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Django-050807?style=flat-square&logo=django&logoColor=ffb300" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-1f6b1f?style=flat-square&logo=fastapi&logoColor=ffb300" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/.NET-050807?style=flat-square&logo=dotnet&logoColor=ffb300" alt=".NET"/>
+<img src="https://img.shields.io/badge/Express-1f6b1f?style=flat-square&logo=express&logoColor=ffb300" alt="Express"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-050807?style=flat-square&logo=postgresql&logoColor=ffb300" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-1f6b1f?style=flat-square&logo=mongodb&logoColor=ffb300" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-050807?style=flat-square&logo=redis&logoColor=ffb300" alt="Redis"/>
+<img src="https://img.shields.io/badge/SQLite-1f6b1f?style=flat-square&logo=sqlite&logoColor=ffb300" alt="SQLite"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-050807?style=flat-square&logo=docker&logoColor=ffb300" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-1f6b1f?style=flat-square&logo=amazonaws&logoColor=ffb300" alt="AWS"/>
+<img src="https://img.shields.io/badge/Cloudflare-050807?style=flat-square&logo=cloudflare&logoColor=ffb300" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Vercel-1f6b1f?style=flat-square&logo=vercel&logoColor=ffb300" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Linux-050807?style=flat-square&logo=linux&logoColor=ffb300" alt="Linux"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-1f6b1f?style=flat-square&logo=githubactions&logoColor=ffb300" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Nginx-050807?style=flat-square&logo=nginx&logoColor=ffb300" alt="Nginx"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-1f6b1f?style=flat-square&logo=git&logoColor=ffb300" alt="Git"/>
+<img src="https://img.shields.io/badge/Unity-050807?style=flat-square&logo=unity&logoColor=ffb300" alt="Unity"/>
+<img src="https://img.shields.io/badge/Godot-1f6b1f?style=flat-square&logo=godotengine&logoColor=ffb300" alt="Godot"/>
+<img src="https://img.shields.io/badge/Neovim-050807?style=flat-square&logo=neovim&logoColor=ffb300" alt="Neovim"/>
+<img src="https://img.shields.io/badge/n8n-1f6b1f?style=flat-square&logo=n8n&logoColor=ffb300" alt="n8n"/>
+<img src="https://img.shields.io/badge/Bash-050807?style=flat-square&logo=gnubash&logoColor=ffb300" alt="GNU Bash"/>
+<img src="https://img.shields.io/badge/PowerShell-1f6b1f?style=flat-square&logo=powershell&logoColor=ffb300" alt="PowerShell"/>
+
+<br/>
+
+<sub><code>+ reverse-engineering · sec · game-modding</code></sub>
 
 </div>
 
----
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
+
+<div align="center"><img src="assets/sec/04.svg" alt="§ 04 · SIGNALS"/></div>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" height="150" alt="stats"/>
+<img src="https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14" height="150" alt="top langs"/>
 
-### **Code Distribution Matrix**
-![Top Languages](https://github-readme-stats-rho-gold.vercel.app/api/top-langs/?username=abeelha&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff)
+<br/>
 
-</td>
-<td width="50%">
-
-### **Performance Metrics**  
-![GitHub Stats](https://github-readme-stats-rho-gold.vercel.app/api?username=abeelha&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff00ff)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### **Streak Protocol**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeelha&theme=synthwave&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ffff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff)
-
-</td>
-<td width="50%">
-
-### **Achievement Matrix**
-![Commits](https://img.shields.io/badge/Total_Commits-1900+-00ffff?style=for-the-badge&logo=github&logoColor=white)<br/>
-![Repositories](https://img.shields.io/badge/Public_Repos-40+-ff00ff?style=for-the-badge&logo=github&logoColor=white)<br/>
-![Languages](https://img.shields.io/badge/Languages-10+-ffff00?style=for-the-badge&logo=code&logoColor=black)<br/>
-![Years_Active](https://img.shields.io/badge/Years_Active-7+-00ff00?style=for-the-badge&logo=calendar&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=abeelha&hide_border=true&background=050807&stroke=1f6b1f&ring=ffb300&fire=ffb300&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffb300&sideLabels=39ff14&dates=5a7a5a" height="150" alt="streak"/>
 
 </div>
 
----
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "In a world of 1s and 0s, be the algorithm that matters."  ║
-║                           - Abeelha 🐝                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="assets/sec/05.svg" alt="§ 05 · FREQUENCIES · what's in my ears"/>
 
-<img src="https://komarev.com/ghpvc/?username=abeelha&style=for-the-badge&color=yellowgreen" alt="Profile Views"/>
+<table><tr>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HvjDlyNGkPk59j-7FIo2ou"><img src="assets/covers/01-odinochestvo.png" width="150" alt="одиночество"/><br/>одиночество</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2FP425gSzx7o6BlEQ3T9sLm"><img src="assets/covers/02-macroblank.png" width="150" alt="MacroBlank"/><br/>MacroBlank</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EAYB-X6f59dXzzdBxEvEwg"><img src="assets/covers/03-coding.png" width="150" alt="coding music"/><br/>coding music</a></td>
+</tr><tr>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2HItVmSzrbI_8jhCkPqzvDn"><img src="assets/covers/04-exphiphop.png" width="150" alt="experimental hiphop"/><br/>experimental hiphop</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2GYdTD1KB-btF9-fIWTf8e2"><img src="assets/covers/05-electro.png" width="150" alt="electro"/><br/>electro</a></td>
+<td align="center"><a href="https://music.youtube.com/playlist?list=PLvwLHgkB3k2EnYSCBRHH8ywIK66yzOXVT"><img src="assets/covers/06-random.png" width="150" alt="Random"/><br/>Random</a></td>
+</tr></table>
+
+</div>
+
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
+
+<div align="center">
+
+<img src="assets/sec/06.svg" alt="§ 06 · TRANSMISSIONS"/>
+
+<br/><br/>
+
+<table><tr>
+<td align="center"><a href="https://github.com/Abeelha/fractal-it"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=fractal-it&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="fractal-it — math-rendered web"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/mp4-mp3-transcript"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=mp4-mp3-transcript&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="mp4-mp3-transcript — offline AI"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/windows-mic-lock"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=windows-mic-lock&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="windows-mic-lock"/></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/Abeelha/Born-Again-AutoNexus"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Born-Again-AutoNexus&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Born-Again-AutoNexus — game mod"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/Combined-HBG-and-Bow"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Combined-HBG-and-Bow&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Combined-HBG-and-Bow — MHWilds mods"/></a></td>
+<td align="center"><a href="https://github.com/Abeelha/FFW-mods"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=FFW-mods&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="FFW-mods — Far Far West mods"/></a></td>
+</tr></table>
+
+<table><tr>
+<td align="center"><code>██ [CLASSIFIED] ██</code><br/><sub>reverse-engineering · undisclosed</sub></td>
+<td align="center"><code>██ [REDACTED] ██</code><br/><sub>the hive keeps its own</sub></td>
+</tr></table>
+
+<sub><i>some work stays in the dark. ask nicely.</i></sub>
+
+</div>
+
+<div align="center">
+
+<img src="assets/header.svg" width="100%" alt=""/>
+
+<sub><code>stop the nonsense. evolve. mine the sky.</code></sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abeelha&style=flat-square&color=ffb300" alt="views"/>
 
 </div>
