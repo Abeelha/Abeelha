@@ -4,15 +4,14 @@
 
 <img src="assets/wordmark.svg" width="500" alt="ABEELHA"/>
 
-<img src="assets/trippy-ascii-bee.png" width="150" alt="bee"/>
 
 <a href="https://github.com/Abeelha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=ffb300&center=true&vCenter=true&width=600&lines=a+abelha+n%C3%A3o+reconhece+fronteiras;the+bee+does+not+recognize+borders" alt=""/></a>
 
 </div>
 
 <table align="center"><tr>
-<td valign="top" width="120"><img src="assets/hive-pillar.png" width="120" alt=""/></td>
-<td valign="top" width="760">
+<td valign="top" width="120"><img src="assets/hive-pillar.png" alt=""/></td>
+<td valign="top">
 
 <div align="center"><img src="assets/sec/02.svg" alt="§ 02 · IDENTITY"/></div>
 
