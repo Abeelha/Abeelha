@@ -135,9 +135,6 @@
 <td align="center"><a href="https://github.com/Abeelha/Combined-HBG-and-Bow"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Combined-HBG-and-Bow&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Combined-HBG-and-Bow — MHWilds mods"/></a></td>
 <td align="center"><a href="https://github.com/Abeelha/FFW-mods"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=FFW-mods&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="FFW-mods — Far Far West mods"/></a></td>
 </tr></table>
-
-<sub><i>more on <a href="https://github.com/Abeelha?tab=repositories">github.com/Abeelha</a></i></sub>
-
 </div>
 
 <div align="center">
