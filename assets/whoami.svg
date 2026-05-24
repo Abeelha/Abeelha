@@ -14,9 +14,9 @@
   <circle cx="58" cy="16" r="5" fill="#39ff14"/>
   <text x="340" y="20" text-anchor="middle" font-size="12" fill="#5a7a5a">abeelha@hive: ~</text>
   <text x="24" y="66" font-size="15" fill="#ffb300">&gt; <tspan fill="#39ff14">whoami</tspan></text>
-  <text x="24" y="98" font-size="14.5" fill="#9dffa0">we invented the borders, the dogma, the noise.</text>
-  <text x="24" y="126" font-size="14.5" fill="#9dffa0">i'd rather build, learn, and look up.</text>
-  <text x="24" y="154" font-size="14.5" fill="#ffd98a">there are asteroids to mine, a hive to tend.</text>
+  <text x="24" y="98" font-size="14.5" fill="#9dffa0">software engineer. i build for web, systems, and games.</text>
+  <text x="24" y="126" font-size="14.5" fill="#9dffa0">reverse-engineering, automation, shipping clean code.</text>
+  <text x="24" y="154" font-size="14.5" fill="#ffd98a">curious about math, space, and good music.</text>
   <text x="24" y="188" font-size="14.5" fill="#39ff14">&gt;</text>
   <rect x="40" y="177" width="9" height="14" fill="#39ff14">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.2s" repeatCount="indefinite"/>
