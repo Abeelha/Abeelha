@@ -4,23 +4,23 @@
 
 <img src="assets/wordmark.svg" width="500" alt="ABEELHA"/>
 
-<a href="https://github.com/Abeelha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=ffb300&center=true&vCenter=true&width=600&lines=a+abelha+n%C3%A3o+reconhece+fronteiras;the+bee+does+not+recognize+borders" alt=""/></a>
+<a href="https://github.com/Abeelha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=ffb300&center=true&vCenter=true&width=600&lines=a+abelha+nunca+para;build+%C2%B7+ship+%C2%B7+keep+learning" alt=""/></a>
 
 </div>
 
-<div align="center"><img src="assets/sec/01.svg" alt="§ 01 · IDENTITY"/></div>
+<div align="center"><img src="assets/sec/01.svg" alt="§ 01 · ABOUT"/></div>
 
-<div align="center"><img src="assets/whoami.svg" width="560" alt="whoami — we invented the borders, the dogma, the noise. i'd rather build, learn, and look up. there are asteroids to mine, a hive to tend."/></div>
-
-<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
-
-<div align="center"><img src="assets/sec/02.svg" alt="§ 02 · MANIFESTO · the invisible walls"/></div>
-
-<div align="center"><img src="assets/manifesto.svg" width="640" alt="countries, dogma, illogical judgment, the default render of reality... none of it is real. mostly questions. some code. learning out loud. particles · hives · cosmos · the chaos we're in."/></div>
+<div align="center"><img src="assets/whoami.svg" width="560" alt="whoami — software engineer. i build for web, systems, and games. reverse-engineering, automation, shipping clean code. curious about math, space, and good music."/></div>
 
 <div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
-<div align="center"><img src="assets/sec/03.svg" alt="§ 03 · ARSENAL"/></div>
+<div align="center"><img src="assets/sec/02.svg" alt="§ 02 · APPROACH"/></div>
+
+<div align="center"><img src="assets/manifesto.svg" width="640" alt="approach — curiosity first. build real things that actually work and ship often. keep it simple. learn out loud. stay sharp. systems · craft · always improving."/></div>
+
+<div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
+
+<div align="center"><img src="assets/sec/03.svg" alt="§ 03 · STACK"/></div>
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 <div align="center"><img src="assets/hive-band.png" width="100%" alt=""/></div>
 
-<div align="center"><img src="assets/sec/04.svg" alt="§ 04 · SIGNALS"/></div>
+<div align="center"><img src="assets/sec/04.svg" alt="§ 04 · ACTIVITY"/></div>
 
 <div align="center">
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="assets/sec/06.svg" alt="§ 06 · TRANSMISSIONS"/>
+<img src="assets/sec/06.svg" alt="§ 06 · PROJECTS"/>
 
 <br/><br/>
 
@@ -136,12 +136,7 @@
 <td align="center"><a href="https://github.com/Abeelha/FFW-mods"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=FFW-mods&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="FFW-mods — Far Far West mods"/></a></td>
 </tr></table>
 
-<table><tr>
-<td align="center"><code>██ [CLASSIFIED] ██</code><br/><sub>reverse-engineering · undisclosed</sub></td>
-<td align="center"><code>██ [REDACTED] ██</code><br/><sub>the hive keeps its own</sub></td>
-</tr></table>
-
-<sub><i>some work stays in the dark. ask nicely.</i></sub>
+<sub><i>more on <a href="https://github.com/Abeelha?tab=repositories">github.com/Abeelha</a></i></sub>
 
 </div>
 
@@ -149,7 +144,7 @@
 
 <img src="assets/header.svg" width="100%" alt=""/>
 
-<sub><code>stop the nonsense. evolve. mine the sky.</code></sub>
+<sub><code>build · learn · reach higher</code></sub>
 
 <br/>
 
