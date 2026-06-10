@@ -80,7 +80,8 @@
 <img src="https://img.shields.io/badge/PowerShell-1f6b1f?style=flat-square&logo=powershell&logoColor=ffb300" alt="PowerShell"/>
 
 <br/>
-<img width="900" height="540" alt="WindowsTerminal_AsJbFxAYmV" src="https://github.com/user-attachments/assets/1823c997-d487-49a5-b655-28e0ef10606d" />
+
+<img width="911" height="620" alt="orchestrator" src="https://github.com/user-attachments/assets/ba8b1a7d-9fa8-43f4-9ef3-6deb8b9e689a" />
 
 
 <sub><code>+ reverse-engineering · sec · game-modding</code></sub>
