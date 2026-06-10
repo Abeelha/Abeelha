@@ -81,7 +81,8 @@
 
 <br/>
 
-<img width="911" height="620" alt="orchestrator" src="https://github.com/user-attachments/assets/ba8b1a7d-9fa8-43f4-9ef3-6deb8b9e689a" />
+<img width="934" height="902" alt="__orchestrator" src="https://github.com/user-attachments/assets/c0663160-a97e-4620-86b8-445a39b0882b" />
+
 
 
 <sub><code>+ reverse-engineering · sec · game-modding</code></sub>
