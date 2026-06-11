@@ -126,23 +126,6 @@
 
 <div align="center">
 
-<img src="assets/sec/06.svg" alt="§ 06 · PROJECTS"/>
-
-<br/><br/>
-
-<table><tr>
-<td align="center"><a href="https://github.com/Abeelha/fractal-it"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=fractal-it&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="fractal-it — math-rendered web"/></a></td>
-<td align="center"><a href="https://github.com/Abeelha/mp4-mp3-transcript"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=mp4-mp3-transcript&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="mp4-mp3-transcript — offline AI"/></a></td>
-<td align="center"><a href="https://github.com/Abeelha/windows-mic-lock"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=windows-mic-lock&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="windows-mic-lock"/></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/Abeelha/Born-Again-AutoNexus"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Born-Again-AutoNexus&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Born-Again-AutoNexus — game mod"/></a></td>
-<td align="center"><a href="https://github.com/Abeelha/Combined-HBG-and-Bow"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=Combined-HBG-and-Bow&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="Combined-HBG-and-Bow — MHWilds mods"/></a></td>
-<td align="center"><a href="https://github.com/Abeelha/FFW-mods"><img src="https://github-readme-stats-rho-gold.vercel.app/api/pin/?username=abeelha&repo=FFW-mods&hide_border=true&bg_color=050807&title_color=ffb300&text_color=39ff14&icon_color=ffb300" width="300" alt="FFW-mods — Far Far West mods"/></a></td>
-</tr></table>
-</div>
-
-<div align="center">
-
 <img src="assets/header.svg" width="100%" alt=""/>
 
 <sub><code>build · learn · reach higher</code></sub>
